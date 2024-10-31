@@ -14,3 +14,5 @@ I have provided a DLL, writing the output of the command `whoami` into the path 
 You can however, put any DLL that does anything into that folder and execute the programm.
 
 There is a compiled version of the RpcClient.exe provided in this repository.
+
+https://github.com/user-attachments/assets/d6e6cc83-8e4f-4c28-9996-4b684f7fa223
