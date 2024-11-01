@@ -16,3 +16,8 @@ You can however, put any DLL that does anything into that folder and execute the
 There is a compiled version of the RpcClient.exe provided in this repository.
 
 https://github.com/user-attachments/assets/d6e6cc83-8e4f-4c28-9996-4b684f7fa223
+
+# DLL exploit
+
+I added a DLL that, upon calling it, makes the RPC call and gives you a command promt.
+This might help with bypassing Applocker for the RpcClient.exe
